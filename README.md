@@ -10,7 +10,7 @@ Creating your own data set is a dream for every Data Scientist, but making it au
 2. (darknet yolo)https://pjreddie.com/darknet/yolo/
 3. (coco-dataset)http://cocodataset.org/
 
-## Usage
+## Features
 Additional features other than detecting cars are listed below
 
 * Jump_time -> It is the time period in which we need to detect single best car box.
