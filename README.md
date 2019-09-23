@@ -31,8 +31,8 @@ Additional features other than detecting cars are listed below
 
 ## Samples of extracted cars images 
 
-![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/blob/master/CARS/monaco_cars/15543.jpg)
-![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/blob/master/CARS/monaco_cars/18913.jpg)
+![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/blob/master/CARS/noida_cars/153.jpg)
+![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/blob/master/CARS/noida_cars/32.jpg)
 ![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/blob/master/CARS/monaco_cars/22741.jpg)
 ![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/blob/master/CARS/monaco_cars/36042.jpg)
 ![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/blob/master/CARS/monaco_cars/4170.jpg)
