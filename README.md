@@ -3,7 +3,6 @@
 ![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/blob/master/results/noida_latest_bestframe_new.gif)
 
 Creating your own data set is a dream for every Data Scientist, but making it autonomous is the greatest achievement. This project is used to create your own Cars Dataset Autonomously. Your can Batch process your captured videos to extract location of cars with best visibility and quality. It generates video for detected cars with bounding boxes and also you can extract cars images out of video automatically. 
-#todo : You can do much more like deploying this to your live camera to detect cars in realtime.
 
 ## References 
 1. (wizyoung) https://github.com/wizyoung/YOLOv3_TensorFlow
@@ -29,3 +28,15 @@ Additional features other than detecting cars are listed below
 
 **Full implementation example (.ipynb) file is located in this repository.
 **You can see sample outputs in CARS folder.
+
+## Samples of extracted cars images 
+
+![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/tree/master/CARS/monaco_cars/15543.jpg)
+![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/tree/master/CARS/monaco_cars/18913.jpg)
+![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/tree/master/CARS/monaco_cars/22741.jpg)
+![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/tree/master/CARS/monaco_cars/36042.jpg)
+![alt text](https://github.com/CRAZYMONTY/Autonomous-Cars-Dataset-Generation/tree/master/CARS/monaco_cars/4170.jpg)
+
+# todo : 
+ 1. You can do much more like deploying this to your live camera to detect cars and save in realtime.
+ 2. You can also do this for multiple objects by doing slightly changes in code.
