@@ -39,4 +39,4 @@ Additional features other than detecting cars are listed below
 
 # todo : 
  1. You can do much more like deploying this to your live camera to detect cars and save in realtime.
- 2. You can also do this for multiple objects by doing slightly changes in code.
+ 2. You can also do this for multiple objects by doing changes in code.
